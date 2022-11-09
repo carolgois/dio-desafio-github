@@ -1,0 +1,2 @@
+Markdown é uma linguagem de marcação com formato de texto simples. 
+Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
